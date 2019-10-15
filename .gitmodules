@@ -1,0 +1,9 @@
+[submodule "Dokumenty"]
+	path = Dokumenty
+	url = https://github.com/RSP-Falcon-9/redact_docs
+[submodule "Kod/Frontend"]
+	path = Kod/Frontend
+	url = https://github.com/RSP-Falcon-9/redact_frontend
+[submodule "Kod/Backend"]
+	path = Kod/Backend
+	url = https://github.com/RSP-Falcon-9/redact_backend
